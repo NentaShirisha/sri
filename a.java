@@ -1,4 +1,4 @@
 class a{
 public static void main(String...args){
-System.out.printl("siri");
+System.out.println("siri");
 }}
